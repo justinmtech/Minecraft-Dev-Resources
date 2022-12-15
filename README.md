@@ -1,10 +1,9 @@
-# Minecraft-Resources
+# Minecraft-Developer-Resources
 An overview of the Minecraft: Java Edition server ecosystem with helpful links & repositories for developers.
 
 # The Spigot Forum
 - Spigot - https://www.spigotmc.org/
 - Plugin Help - https://www.spigotmc.org/forums/spigot-plugin-help.42/
-- Learning Plugin Development - https://www.spigotmc.org/wiki/spigot-plugin-development/
 
 # Foundational Projects
 - Spigot - https://hub.spigotmc.org/stash/projects/SPIGOT
@@ -39,5 +38,24 @@ An overview of the Minecraft: Java Edition server ecosystem with helpful links &
 - SpigotMC - https://discord.gg/spigotmc
 - PaperMC - https://discord.gg/papermc
 
-# YouTube Development Tutorials
-- Kody Simpson - https://www.youtube.com/@KodySimpson/videos
+# Educational Content (free)
+- Java in a nutshell (14 mins) - https://www.youtube.com/watch?v=RRubcjpTkks
+- Java Tutorial (~2 hours) - https://www.youtube.com/watch?v=eIrMbAQSU34
+- Spigot Development Essentials - https://www.spigotmc.org/wiki/spigot-plugin-development/
+- Plugin Development for beginners - https://www.youtube.com/@KodySimpson/videos 
+
+# Course
+- Java Mastery Course (paid) - https://codewithmosh.com/p/the-ultimate-java-mastery-series
+- I personally took this course 3 years ago and it is a great place for beginners to start.
+- Learning Java's foundations FIRST before trying to make plugins is critical.
+- It's organized well and Mosh is a great teacher. This is not a paid endorsement.
+
+# Books
+These books have been of great use to me in my journey so far in life and as a self-taught developer.
+- The Science of Self-Learning by Peter Hollins: Effective & efficient learning
+- Mastery by Roberte Greene: Cultivation of skills
+- So Good They Can't Ignore You by Cal Newport: Loving what you do and becoming great at it
+- Code Complete (2nd edition) by Steve McConnell: The programmers handbook
+- 7 Habits of Highly Effective People by Stephen R. Covey: Spending your time wisely
+- Designing Games by Tnan Sylvester: Game theory
+- The War of Art by Steven Pressfield: Overcoming resistance 
