@@ -1,5 +1,5 @@
 # Minecraft-Developer-Resources
-An overview of the Minecraft: Java Edition server ecosystem with helpful links & repositories for developers.
+An overview of the Minecraft: Java Edition server ecosystem with helpful links, repositories, courses and books for developers.
 
 # The Spigot Forum
 - Spigot - https://www.spigotmc.org/
