@@ -55,7 +55,7 @@ These books have been of great use to me in my journey so far in life and as a s
 - The Science of Self-Learning by Peter Hollins: Effective & efficient learning
 - Mastery by Roberte Greene: Cultivation of skills
 - So Good They Can't Ignore You by Cal Newport: Loving what you do and becoming great at it
-- Code Complete (2nd edition) by Steve McConnell: The programmers handbook
+- Code Complete (2nd edition) by Steve McConnell: The programmer's handbook
 - 7 Habits of Highly Effective People by Stephen R. Covey: Spending your time wisely
 - Designing Games by Tnan Sylvester: Game theory
 - The War of Art by Steven Pressfield: Overcoming resistance 
