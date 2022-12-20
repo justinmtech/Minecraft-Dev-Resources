@@ -26,6 +26,9 @@ An overview of the Minecraft: Java Edition server ecosystem with helpful links, 
 - Hex Color Utility - https://github.com/Rosewood-Development/RoseColors
 - ChatGPT Integration - https://github.com/PlexPt/chatgpt-java
 
+# Useful Threads
+- Using HikariCP for faster SQL connections - https://www.spigotmc.org/threads/guide-datasource-and-try-with-resources-how-to-connect-to-your-database-properly.480002/
+
 # Trade
 - BuiltByBit - https://builtbybit.com/ (Previously Mc-Market)
 
