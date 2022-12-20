@@ -14,6 +14,7 @@ An overview of the Minecraft: Java Edition server ecosystem with helpful links, 
 - Paper (Spigot Fork) - https://github.com/PaperMC
 
 # Useful Tools & Repositories
+- Faster SQL Connections - https://github.com/brettwooldridge/HikariCP
 - Economy - https://github.com/MilkBowl/VaultAPI
 - Testing - https://github.com/MockBukkit/MockBukkit
 - Item NBT - https://github.com/tr7zw/Item-NBT-API
